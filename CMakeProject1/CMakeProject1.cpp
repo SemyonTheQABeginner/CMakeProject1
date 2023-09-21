@@ -6,6 +6,6 @@
 
 int main()
 {
-	printf("Where Cyrillic letters");
+	printf("Privet Mir");
 	return 0;
 }
